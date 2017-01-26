@@ -11,13 +11,13 @@
 
 Table of Contents
 -----------------
-###
+
   1. Programming
-     - [Python](#Python)
+    * - [Python](#Python)
      - [PHP](#PHP)
       
   2. Editors
-     - [Vim](#vim)
+    * - [Vim](#vim)
       
   3. SHELL scripting
      - [Bash](#bash)
