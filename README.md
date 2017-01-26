@@ -11,10 +11,10 @@
 
 Table of Contents
 -----------------
-
+  
   1. Programming
-    *-[Python](#Python)
-      [PHP](#PHP)
+- [Python](#Python)
+- [PHP](#PHP)
       
   2. Editors
     * - [Vim](#vim)
