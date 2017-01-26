@@ -19,7 +19,7 @@ Table of Contents
   2. Editors
      - [Vim](#vim)
       
-  3. Terminal
+###  3. Terminal
      - [Bash](#bash)
 
   4. Operating Systems
