@@ -35,9 +35,9 @@ Table of Contents
       - [Useful](#useful)
   
   8. Cheat sheets 
-     - [Netowrking](#networking)
+     - [Netowrking] (#networking)
   
   9. Motivation 
-     * [Netowrking](#networking)
+     * [Netowrking] (#networking)
      
  
