@@ -23,7 +23,7 @@ Table of Contents
      - [Bash](#bash)
 
   4. Operating Systems
-     - [Linux](./linux/test)
+     - [Linux](./Linux/test)
 
   5. Security
      - [Security](#security)
