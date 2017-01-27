@@ -13,14 +13,14 @@ Table of Contents
 -----------------
   
   1. Programming
-     - [Python](#Python)
-     - [PHP](#PHP)
-     - [JavaScript](#javascript)
+     - [Python](./Python)
+     - [PHP](./PHP)
+     - [JavaScript](./Javascript)
   2. Editors
-     - [Vim](#vim)
+     - [Vim](./vim)
       
   3. SHELL scripting
-     - [Bash](#bash)
+     - [Bash](./bash)
 
   4. Operating Systems
      - [Linux](./Linux/)
