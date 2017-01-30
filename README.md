@@ -20,10 +20,10 @@ Table of Contents
      - [Vim](./vim)
       
   3. SHELL scripting
-     - [Bash](./bash)
+     - [Bash](./Bash)
 
   4. Operating Systems
-     - [Linux](./Linux/)
+     - [Linux](./Linux)
 
   5. Security
      - [Security](#security)
@@ -33,7 +33,7 @@ Table of Contents
      - [Youtube Channels](#youtube)
      
   7.  General for Computer Science  
-      - [Useful](#useful)
+      - [Useful](./Useful)
   
   8. Cheat sheets 
      - [Cheat sheets](#sheets)
