@@ -17,7 +17,7 @@ Table of Contents
      - [PHP](./PHP)
      - [JavaScript](./Javascript)
   2. Editors
-     - [Vim](./vim)
+     - [Vim](./Vim)
       
   3. SHELL scripting
      - [Bash](./Bash)
